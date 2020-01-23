@@ -19,6 +19,7 @@ public class ThursdayExample {
         System.out.println("Learning Pull operations");
         System.out.println("Testing Push operations");
         System.out.println("Learning Fetch operations");
+        System.out.println("Learning Merge operations");
     }
     
 }
