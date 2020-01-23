@@ -18,6 +18,7 @@ public class ThursdayExample {
         System.out.println("Learning GitHub");
         System.out.println("Learning Pull operations");
         System.out.println("Testing Push operations");
+        System.out.println("Learning Fetch operations");
     }
     
 }
