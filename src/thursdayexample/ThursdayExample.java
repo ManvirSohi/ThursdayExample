@@ -16,7 +16,8 @@ public class ThursdayExample {
      */
     public static void main(String[] args) {
         System.out.println("Learning GitHub");
-        System.out.println("Learning Pull operations.");
+        System.out.println("Learning Pull operations");
+        System.out.println("Testing Push operations");
     }
     
 }
